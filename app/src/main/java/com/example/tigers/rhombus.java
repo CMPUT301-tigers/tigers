@@ -1,2 +1,4 @@
-package com.example.tigers;public class rhombus {
+package com.example.tigers;
+
+public class rhombus extends shape{
 }
